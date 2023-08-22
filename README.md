@@ -18,3 +18,6 @@ After cloning the repo, the extension is practically installed yet disabled. In 
 
 ## Contribution
 Contributions to this project are welcome.
+
+### Note
+This extension is not affiliated, funded, or in any way associated with Cloudflare.
