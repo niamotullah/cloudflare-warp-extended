@@ -1,0 +1,8 @@
+{
+  "name": "Cloudflare Warp Extended",
+  "description": "Easily connect/disconnect to cloudflare-warp using warp-cli",
+  "uuid": "cloudflare-warp-extended@niamotullah.github.io",
+  "shell-version": ["42"],
+  "url": "https://github.com/niamotullah/cloudflare-warp-extended",
+  "version": 1
+}
